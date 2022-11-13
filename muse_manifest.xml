@@ -1,12 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="delinanzri.github.io" resolutions="1x" timestamp="1633714403233">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="delinanzri.github.io" resolutions="1x" timestamp="1668337474999">
   <folder name="css">
     <file name="site_global.css" crc="3896084477"/>
-    <file name="cv.css" crc="377780000" ref="cv"/>
-    <file name="index.css" crc="4069185256" ref="index"/>
+    <file name="cv.css" crc="121104837" ref="cv"/>
+    <file name="index.css" crc="47283399" ref="index"/>
     <file name="home-copy.css" crc="3808195419" ref="home-copy"/>
   </folder>
   <folder name="assets">
     <file name="photo_2021-09-27-21-socialbook-preview.png" crc="4244683560" seo="true" mt="1632770845000"/>
+    <file name="deli.png" crc="4263835095" seo="true" mt="1668231213000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cv:home-copy"/>
@@ -25,7 +26,7 @@
       <caption webpage="cv" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3758260960" seo="true" mt="1633463195800" redirect="true"/>
-  <file name="cv.html" crc="3841193406" seo="true" mt="1633464316829" redirect="true"/>
+  <file name="index.html" crc="214234474" seo="true" mt="1668337396644" redirect="true"/>
+  <file name="cv.html" crc="408397360" seo="true" mt="1668232136582" redirect="true"/>
   <file name="home-copy.html" crc="90628549" seo="true" mt="1633462877782" redirect="true"/>
 </manifest>
